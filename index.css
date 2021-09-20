@@ -24,3 +24,10 @@ nav {
 .top {
     color:#132238;
 }
+
+@media screen and (max-width:991px) {
+.aboutusimg {
+    width: 50%;
+    margin: 0 auto;
+}
+}
