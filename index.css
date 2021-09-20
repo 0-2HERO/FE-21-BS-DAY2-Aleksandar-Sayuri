@@ -1,0 +1,26 @@
+body {
+    background-color: #EBF0F6;
+}
+
+.bend {
+    border-color: #132238;
+    color:#132238;
+}
+
+nav {
+    background-color: #98CCD3 !important;
+}
+
+.aboutus {
+    background-color: #98CCD3;
+    color: #132238;
+}
+
+.info {
+    background-color: #132238;
+    color:white;
+}
+
+.top {
+    color:#132238;
+}
